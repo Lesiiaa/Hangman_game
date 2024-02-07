@@ -86,6 +86,4 @@ while True:
             # ##sprawdzenie czy slowo jest poprawnie zapisane
             # for i, word in enumerate(entered_word):
             #     write(f"Wprowadzone słowo: {word}", 100, 250 + i * 30, 20)
-
-fdfsfsdfsdf
     pygame.display.update()
